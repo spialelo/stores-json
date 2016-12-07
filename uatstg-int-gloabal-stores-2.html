@@ -1,0 +1,89 @@
+<style type="text/css">
+  .street-address {
+    line-height: 1.4em;
+  }
+.INScontainer h1, .INScountry {font-family: Arial,Helvetica,sans-serif;}
+
+.INScontainer-inner {border-bottom: 1px solid #ccc;}
+
+.INScol {
+  /*display: table-cell;*/
+  float: left;
+}
+
+.INScol:last-child{
+  border-bottom: none;
+}
+
+.INScol > h3.shopInShop::after {
+  content:' Shop-In-Shop';
+  font-size: 0.55em;
+  font-weight: bold;
+  color: #5ca3e2;
+  vertical-align: super;
+  line-height: 1em;
+}
+
+
+@media screen and (min-width: 1400px) {
+  .INScol {width: 45.3%;}
+}
+@media screen and (max-width: 1399px) {
+  .INScol {width: 43.28%;}
+}
+@media screen and (max-width: 768px) {
+  .INScol {width: 41%; font-size: 1em;}
+  .INScol > h3.shopInShop::after {line-height: .9em;}
+}
+
+</style>
+
+
+
+<div class="INScontainer">
+  <div class="INSheader">
+    <h1>International Stores</h1>
+    
+    <select name="INSdropdpown" size="1" onChange="scrollToCountry(this.value)"> 
+      
+    </select>
+  
+  </div>
+  
+<!-- 
+Stores will be pulled in here
+-->
+
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="js/intStoresSort.js"></script>
+
+<script type="text/javascript">
+ 
+ /*Smooth scrollTo*/
+  function scrollToCountry(target){
+    var targetPosition = $(target).offset().top;
+    $('body,html').animate({scrollTop: targetPosition}, 'slow');
+    return false;
+  }
+
+
+/*Fixing the extra border on the bottom of the last two stores, if length of stores is even*/
+$(document).ready(function(){
+
+            $("div.INScontainer-inner").each(function(){
+
+                        var currentChildrenLength = $(this).children("div.INScol").length;
+
+                        if(currentChildrenLength % 2 == 0){
+                              
+                              $(this).children("div.INScol:nth-last-child(-n+2)").css("border-bottom", "none");
+                            }
+                });
+
+});
+
+
+</script>

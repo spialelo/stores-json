@@ -1,0 +1,721 @@
+{
+  "data": {
+    "version": 1,
+    "releaseDate": "2016-11-08",
+    "country": [
+      {
+      "id": "Bahrain",
+      "name": "Bahrain",
+      "city": [{
+        "cityName": "Manama",
+        "store": [{
+          "storeName": "Bahrain City Center",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Muharraq",
+        "store": [{
+          "storeName": "Muharraq Seif Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    }, {
+      "id": "Curacao",
+      "name": "Curacao",
+      "city": [{
+        "cityName": "Willemstad",
+        "store": [{
+          "storeName": "Sambil Curacao",
+          "shopInShop": "no"
+        }]
+      }]
+    }, {
+      "id": "DominicanRepublic",
+      "name": "Dominican Republic",
+      "city": [{
+        "cityName": "Santo Domingo",
+        "store": [{
+          "storeName": "Agora Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    },
+    {
+      "id": "Egypt",
+      "name": "Egypt",
+      "city": [{
+        "cityName": "Cairo",
+        "store": [{
+          "storeName": "Mall of Arabia Egypt",
+          "shopInShop": "no"
+        }]
+      }]
+    },
+    {
+      "id": "Georgia",
+      "name": "Georgia",
+      "city": [{
+        "cityName": "Tbilisi",
+        "store": [{
+          "storeName": "East Point Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    },
+    {
+      "id": "Guatemala",
+      "name": "Guatemala",
+      "city": [{
+        "cityName": "Guatemala City",
+        "store": [{
+          "storeName": "Oakland Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    },
+     {
+      "id": "India",
+      "name": "India",
+      "city": [{
+        "cityName": "Bangalore",
+        "store": [{
+          "storeName": "Bannerghatta Road",
+          "shopInShop": "yes"
+        },{
+          "storeName": "CMH Road Unlimited",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Garuda Mall",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Mantri Maleshwaram",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Orion Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Phoenix Market City",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Chennai",
+        "store": [{
+          "storeName": "Express Avenue",
+          "shopInShop": "no"
+        },{
+          "storeName": "PMC Chennai",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Cochin",
+        "store": [{
+          "storeName": "Lulu Mall",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Delhi",
+        "store": [{
+          "storeName": "Shoppers Stop Ambience Mall",
+          "shopInShop": "yes"
+        }]
+      }, {
+        "cityName": "Hyderabad",
+        "store": [{
+          "storeName": "Shoppers Stop GVK Mall",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Shoppers Stop Inorbit Cyberabad",
+          "shopInShop": "yes"
+        }]
+      }, {
+        "cityName": "Indore",
+        "store": [{
+          "storeName": "Shoppers Stop Indore",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Treasure Island",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Lucknow",
+        "store": [{
+          "storeName": "Shoppers Stop Fun Republic",
+          "shopInShop": "yes"
+        }]
+      }, {
+        "cityName": "Mumbai",
+        "store": [{
+          "storeName": "Bandra Linking Road",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Ghatkopar City Mall",
+          "shopInShop": "yes"
+        },{
+          "storeName": "High Street Phoenix",
+          "shopInShop": "no"
+        },{
+          "storeName": "Infiniti 2",
+          "shopInShop": "no"
+        },{
+          "storeName": "Malad Shoppers Stop",
+          "shopInShop": "no"
+        },{
+          "storeName": "Shoppers Shop at Juhu",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Thane Viviana Mall",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Vashi Inorbit Mall",
+          "shopInShop": "yes"
+        }]
+      }, {
+        "cityName": "Noida",
+        "store": [{
+          "storeName": "Mall of India",
+          "shopInShop": "no"
+        }]
+      }]
+    },
+    {
+      "id": "Israel",
+      "name": "Israel",
+      "city": [{
+        "cityName": "Afula",
+        "store": [{
+          "storeName": "Afula Gilboa",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Akko",
+        "store": [{
+          "storeName": "Akko Azrieli",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Ashdod",
+        "store": [{
+          "storeName": "Big Ashdod",
+          "shopInShop": "no"
+        },{
+          "storeName": "Star Center",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Beit Shemesh",
+        "store": [{
+          "storeName": "Big Fas Beit Shemesh",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Bene Brak",
+        "store": [{
+          "storeName": "Aharonovich St",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Carmiel",
+        "store": [{
+          "storeName": "Carmiel",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Ein Shemer",
+        "store": [{
+          "storeName": "Ein Shemer",
+          "shopInShop": "yes"
+        }]
+      }, {
+        "cityName": "Eliat",
+        "store": [{
+          "storeName": "Big Eilat",
+          "shopInShop": "no"
+        },{
+          "storeName": "Ice Mall",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Givatayim",
+        "store": [{
+          "storeName": "Givataim",
+          "shopInShop": "no"
+        }]
+      }, {
+        "cityName": "Haifa",
+        "store": [{
+          "storeName": "Grand Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Hutsot Hamifrats",
+          "shopInShop": "no"
+        },{
+          "storeName": "Ikea Tsafon",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Hertzelia",
+        "store": [{
+          "storeName": "Hertzelia",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Holon",
+        "store": [{
+          "storeName": "Azrieli Holon",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Jerusalem",
+        "store": [{
+          "storeName": "Talpiot",
+          "shopInShop": "no"
+        },{
+          "storeName": "Malcha",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Kfar Saba",
+        "store": [{
+          "storeName": "G Center",
+          "shopInShop": "no"
+        },{
+          "storeName": "Green Kfar Saba",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Kiryat Shmona",
+        "store": [{
+          "storeName": "Kiryat Shimona",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Kyriat Bialik",
+        "store": [{
+          "storeName": "Kiriyon Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Mevaseret Zion",
+        "store": [{
+          "storeName": "Mevaseret Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Modiin",
+        "store": [{
+          "storeName": "Modein Ishpro",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Nahariya",
+        "store": [{
+          "storeName": "Arena Nahariya",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Nazareth",
+        "store": [{
+          "storeName": "Dodge Center",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Netanya",
+        "store": [{
+          "storeName": "Ir Yamim",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Netivot",
+        "store": [{
+          "storeName": "Globus Center",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Petah Tikva",
+        "store": [{
+          "storeName": "Petah Tikva",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Raanana",
+        "store": [{
+          "storeName": "Renanim Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Ramat Gan",
+        "store": [{
+          "storeName": "Ayalon Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Ramat Yishai",
+        "store": [{
+          "storeName": "Ramat Yishai Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Ramla",
+        "store": [{
+          "storeName": "Azriela Ramla",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Ramot",
+        "store": [{
+          "storeName": "Ramot Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Rishon Lezion",
+        "store": [{
+          "storeName": "G2 Rishon",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Tiberius",
+        "store": [{
+          "storeName": "Big Fashion Tiberia",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Yarka",
+        "store": [{
+          "storeName": "Yarka Big Fashion Outlet",
+          "shopInShop": "no"
+        }]
+      }]
+    },{
+      "id": "Kazakhstan",
+      "name": "Kazakhstan",
+      "city": [{
+        "cityName": "Almaty",
+        "store": [{
+          "storeName": "Mega Park Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    },{
+      "id": "Kuwait",
+      "name": "Kuwait",
+      "city": [{
+        "cityName": "Hawally",
+        "store": [{
+          "storeName": "Promenade Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Kuwait City",
+        "store": [{
+          "storeName": "Souk Sharq",
+          "shopInShop": "no"
+        },{
+          "storeName": "The Avenues Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    },{
+      "id": "Mexico",
+      "name": "Mexico",
+      "city": [{
+        "cityName": "Mexico City ",
+        "store": [{
+          "storeName": "Delta Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Paseo Interlomas",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Polanco",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Santa Fe",
+          "shopInShop": "yes"
+        },{
+          "storeName": "Toreo",
+          "shopInShop": "no"
+        }]
+      }]
+    },{
+      "id": "Oman",
+      "name": "Oman",
+      "city": [{
+        "cityName": "Muscat",
+        "store": [{
+          "storeName": "Avenues Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Muscat Grand Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    },{
+      "id": "Panama",
+      "name": "Panama",
+      "city": [{
+        "cityName": "Panama City",
+        "store": [{
+          "storeName": "Multiplaza Panama",
+          "shopInShop": "no"
+        }]
+      }]
+    },{
+      "id": "Qatar",
+      "name": "Qatar",
+      "city": [{
+        "cityName": "Doha",
+        "store": [{
+          "storeName": "Ezdan Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    },{
+      "id": "SaudiArabia",
+      "name": "Saudi Arabia",
+      "city": [{
+        "cityName": "Abha",
+        "store": [{
+          "storeName": "Khamis Avenue",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Al-Kharj",
+        "store": [{
+          "storeName": "Hudaithi Mall. Al Kharj",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Al Jubail",
+        "store": [{
+          "storeName": "Al Jubail Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Buraydah",
+        "store": [{
+          "storeName": "Nakheel Plaza",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Dammam",
+        "store": [{
+          "storeName": "Ibn Khaldoun",
+          "shopInShop": "no"
+        },{
+          "storeName": "Marina Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Waha Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Dhahran",
+        "store": [{
+          "storeName": "Mall of Dhahran",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Hail",
+        "store": [{
+          "storeName": "Garden Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Salma Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Jeddah",
+        "store": [{
+          "storeName": "Al Salaam Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Al Yasmin Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Aziz Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Haifa Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Mall of Arabia",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Khobar",
+        "store": [{
+          "storeName": "Rashid Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "KiAl Hofuf",
+        "store": [{
+          "storeName": "Ehsa Mall. Hofuf",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Makkah",
+        "store": [{
+          "storeName": "Diyafa Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Makkah Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Medina",
+        "store": [{
+          "storeName": "Al Noor",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Riyadh",
+        "store": [{
+          "storeName": "Al Hamra Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Al Nakheel Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Gallery Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Hyatt Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Khurais",
+          "shopInShop": "no"
+        },{
+          "storeName": "Panorama Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Salaam Plaza",
+          "shopInShop": "no"
+        },{
+          "storeName": "Tala Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Tabuk",
+        "store": [{
+          "storeName": "Tabouk Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Taif City",
+        "store": [{
+          "storeName": "Jouri Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    },{
+      "id": "UAE",
+      "name": "United Arab Emirates",
+      "city": [{
+        "cityName": "Abu Dhabi",
+        "store": [{
+          "storeName": "Al Wadha Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Deerfields Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Mushrif Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Bawabat Al Sharq",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Al Ain",
+        "store": [{
+          "storeName": "Bhawadi Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Dubai",
+        "store": [{
+          "storeName": "Al Ghurair",
+          "shopInShop": "no"
+        },{
+          "storeName": "Arabian Center",
+          "shopInShop": "no"
+        },{
+          "storeName": "Burjuman Centre",
+          "shopInShop": "no"
+        },{
+          "storeName": "Deira City Centre",
+          "shopInShop": "no"
+        },{
+          "storeName": "Dubai Outlet Mall",
+          "shopInShop": "no"
+        },{
+          "storeName": "Ibn Battuta",
+          "shopInShop": "no"
+        },{
+          "storeName": "Jumeriah Park",
+          "shopInShop": "no"
+        },{
+          "storeName": "Me'aisem City Centre",
+          "shopInShop": "no"
+        },{
+          "storeName": "Mirdiff City Center",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Fujairah",
+        "store": [{
+          "storeName": "Fujairah Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Ras Al Khaimah",
+        "store": [{
+          "storeName": "Al Naeem Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Ruwais",
+        "store": [{
+          "storeName": "Al Ruwais Mall",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Sharjah",
+        "store": [{
+          "storeName": "Sahara Center",
+          "shopInShop": "no"
+        },{
+          "storeName": "Sharjah Mega Mall",
+          "shopInShop": "no"
+        }]
+      }]
+    },{
+      "id": "Venezuela",
+      "name": "Venezuela",
+      "city": [{
+        "cityName": "Maracay",
+        "store": [{
+          "storeName": "Parque Los Aviadores",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Margarita Island",
+        "store": [{
+          "storeName": "Sambil Margarita",
+          "shopInShop": "no"
+        }]
+      },{
+        "cityName": "Valencia",
+        "store": [{
+          "storeName": "Metropolis Valencia",
+          "shopInShop": "no"
+        }]
+      }]
+    }
+
+
+    ]
+  }
+
+}
